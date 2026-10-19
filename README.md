@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a0a2e,100:1a003e&height=120&section=header&text=CAESIUM&fontSize=72&fontColor=00FFFF&animation=fadeIn&fontAlignY=65" width="58%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a0a2e,100:1a003e&height=140&section=header&text=CAESIUM&font=Orbitron&fontSize=76&fontColor=00FFFF&animation=fadeIn&fontAlignY=65" width="68%"/>
 
 <br/>
 
